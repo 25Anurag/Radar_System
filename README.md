@@ -46,7 +46,7 @@ Prerequisites
 3. Run the script as described in the 'Usage' section.
 4. The detected object data will be logged to a CSV file in the data directory.
 # Contributing
-Contributions to this project are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
+Contributions to this project are welcome! If you find any issues or have suggestions for improvements.
 # Contact
 If you have any questions or feedback, please feel free to contact me.
 We hope you find this Radar System project both interesting and useful! Thank you for your interest and support.
