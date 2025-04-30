@@ -10,6 +10,7 @@ setting up the hardware to running the radar interface using OpenCV.
 •	- Provides real-time information about the objects' distance and position
 •	- Adjustable scanning range and rotation speed
 •	- Supports data logging for further analysis
+
 # Getting Started
 To get started with the Radar System, follow these steps:
 Prerequisites
